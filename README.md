@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BenWinchester
+- 👀 I’m interested in off-grid renewable technology modelling
+- 🌱 I’m currently learning Python
+- 📫 Reach me via email at benedict.winchester@gmail.com
