@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @BenWinchester
-- 👀 I’m interested in off-grid renewable technology modelling
-- 🌱 I’m currently learning Python
-- 📫 Reach me via email at benedict.winchester@gmail.com
+- 👀 I’m interested in off-grid renewable technology modelling and am working on
+  - 🔥[HeatPanel](https://github.com/BenWinchester/PVTModel)🔥, a 3D thermodynamic model of a hybrid photovolatic-thermal (PV-T) collector, written in Python;
+  - and 🍀[CLOVER](https://github.com/CLOVER-energy/CLOVER)🍀, an energy-system model developed at Imperial College London by [Dr Phil Sandwell](https://github.com/phil-sandwell), written in Python, and undergoing continuous development.
+- 🌱 I’m currently learning Python, you can check out some of my code [here](https://github.com/BenWinchester/PVTModel) and [here](https://github.com/CLOVER-energy/CLOVER)
+- 📫 And you can reach me via email at [benedict.winchester@gmail.com](mailto:benedict.winchester@gmail.com) or [b.winchester20@imperial.ac.uk](mailto:b.winchester20@imperial.ac.uk)
